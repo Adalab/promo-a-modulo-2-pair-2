@@ -14,3 +14,5 @@ head.addEventListener( 'mouseout', handleMouseoutHead );
 function handleMouseoutHead (event) {
     face.innerHTML = ':)'
 };
+
+
