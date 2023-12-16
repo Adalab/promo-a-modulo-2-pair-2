@@ -1,5 +1,7 @@
 'use strict'
 
+//Holis
+
 const face = document.querySelector('.js_face');
 const head = document.querySelector('.js_head');
 
